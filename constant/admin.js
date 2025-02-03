@@ -1,0 +1,1 @@
+exports.adminRoles = ['admin']
